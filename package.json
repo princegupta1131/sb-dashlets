@@ -32,7 +32,7 @@
     "jquery": "3.7.1",
     "jszip": "3.10.1",
     "leaflet": "1.7.1",
-    "lodash-es": "4.17.21",
+    "lodash-es": "4.17.23",
     "ng-multiselect-dropdown": "1.0.0",
     "ng2-charts": "3.0.8",
     "ngx-daterangepicker-material": "6.0.4",
